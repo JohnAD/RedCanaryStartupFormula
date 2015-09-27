@@ -29,7 +29,25 @@ The RED CANARY startup's desired outcome is Return on Investment (ROI).
 That is, the long term goal is for the company to grow based on it's own profits and revenues
 until it reaches a point of generating handsome revenues for it's private share holders.
 
+This is a good direction to take if rapid growth of profit is constrained by something other
+than access to capital.
 
+Another way to say it: The structure of RED CANARY company is such that maximizing profit requires
+maximizing a metric other than financial leverage.
+
+    An example of a RED CANARY (ROI) company:
+
+    A creative mobile game company. The limit to growth is in development labor (aka time 'writing' the games).
+    Yet, to keep creativity active, one must keep the design teams small to ensure collaboration and tight communication.
+    So, just 'hiring more people' doesn't really solve anything after a certain point. In fact, 'too many cooks' can
+    be very negative.
+
+    Since the COGS is trivial compared to the revenue; the long term profit growth of the company is dependent
+    on the intrisic quality of the games boosting reputation (and thus increasing repeat sales). Such quality depends
+    on keeping team sizes small. A company of this type would probably 'cap out' at about 100 employees.
+
+    At that point, the pressure would be to outsource anything not directly related to game creation:
+    accounting, janitorial, customer support, marketing, etc.
 
 Conversely,
 

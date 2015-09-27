@@ -21,69 +21,154 @@ This planning can consist of minor forms of registration and legal work:
 Doing any more than this violates the spirit and rules of the Startup Weekend concept and is
 inherently unfair to the new company team.
 
-These hours and expense are added to the 'phase 2' accumulation of hours and investment.
+These hours and expenses are added to the 'phase 2' accumulation of hours and investment.
 
 Should it turn out that these 45hr / $300 limits are violated, it is expected that the excess
 hours and assets are simply 'donated without compensation or expectation of return' to the company.
 
-Not doing that makes you a 'bad person'. I realize the phrase 'bad person' has no legal meaning,
+Not doing this makes you a 'bad person'. I realize the phrase 'bad person' has no legal meaning,
 but at least you know now.
 
 PHASE 1-A: STARTUP WEEKEND - THE PITCH
 
-At the startup weekend one individual will go a 30 second pitch on Friday in the hopes that the team forms.
+At the startup weekend one individual will do a 30 second pitch on Friday in the hopes that the team forms.
 
 Ideally, at the very end, pitcher will say 'we will follow the RED CANARY plan'. Even if not, a sign saying such will
 be placed on the wall next to where the votes happen.
 
 If we win, then this process continues to PHASE 1-B.
 
-If we don't win, then this company WILL NOT be worked on. The one to five will decide later what to do. Ideally,
+If we don't win, then this company WILL NOT be worked on. The one to five persons will decide later what to do. Ideally,
 those one to five will instead work with other team(s) that did win. This RED CANARY plan no longer applies any more.
 
 PHASE 1-B: TEAM BUILDING
 
-After the winners are announced, the teams form for each startup.
+After the winners are announced, teams are put together for each startup.
 
-The person who did the Pitch is "Benevolent Dictator" of the startup for 60 days. Somebody has to be in charge and it is not realistic to 'vote on things' in a twenty-minute team-building excersize.
+The person who did the pitch is "Benevolent Dictator" (BD) of the startup for 60 days. Somebody has to be in charge and it is
+not realistic to 'vote on things' in a twenty-minute team-building excersize.
 
-A group will form. The Benevolent Dictator will have final say but will acquiese to group opinion as much as possible.
+A team forms. The Benevolent Dictator (BD) will have final say to membership but will acquiese to group opinion as much as possible.
 
-At the very end, everyone will put their names and contact info on a list.
+At the very end, everyone will put their names and contact info on a list that is emailed back out to the group.
 
 PHASE 1-C: WORK, CREATE, BUILD
 
 Everyone works super hard to start the company all weekend. What that means varies from company to company, but give it
-'all you can!'
+_all you can!_
 
 To set expectations:
-    * Everyone is equal. A 'developers' time is not more or less valuable than a 'artists' time. etc.
+    * Everyone is equal. A 'programmers' time is not more or less valuable than a 'artists' time vs a 'marketers' time, etc.
     * In general, we will not be "counting hours".
       However, if someone signs up for the team and then puts in less than 12 hours, then the BD can forfeit their spot
-      on the board of directors. This should be the ONLY way to forfeit a spot.
-    * wanting a full nights sleep is okay. Some folks stay up 54 hours in a row. That is not against the rules, but
+      on the board of directors. This should be one of the only ways to forfeit a spot. They might even get some or all shares
+      pulled, at the descretion of the BD.
+    * wanting a full night's sleep is okay. Some folks stay up 54 hours in a row. That is not against the rules, but
       please don't expect 'extra credit'
-
-
-
+    * be nice. These might be the people you work with for many years.
 
 PHASE 1-D: PRESENTATION BATTLE
 
+At the end of the weekend, the team presents their work to the judges.
+
+If we win, great. If not, that is okay: it is not really the point.
+
+In fact, the value of winning is somewhat limited, especially for this company. Most of the prizes, such as $2000 or free web hosting, don't really amount to much. The only two massive benefits are:
+
+1. Good Feelings. Winning feels good. It energizes the team. This is a subtle but non-trivial benefit and can make a big
+   difference to the long term committment of the team. However, one can overcome not winning simply by buckling down and
+   trying harder.
+
+2. Introduction to Angel Investor groups for later Round A or Seed Money investments.
+
+    Since our long term plan is to NOT sell stock; but make passive dividend income, most Angels will NOT be interested in giving us money. Angel groups put money into lots of small startups in the hope that, say, 1 out of 30 become huge money makers (making up for the 26 that fail and the 2 that do 'middling okay'). By stating up front you are not looking for a 'big cash payout', you are saying you will NOT be the 1 of 30. They will not want to give you money.
+
+However, if you do win first place, I recommend doing the presentations to the groups anyway. Explaining your business plan to
+seasoned businessmen will provide more insight and advice. Much of it will be useful. But like always, take free advice with
+a grain of salt.
+
+Ironically, the best outcome might be 2nd place.
+
 PHASE 2-A: BOARD OF DIRECTORS
 
-Corporate formation with 5000 shares total. Shares are released using the following formula:
+During the week after the show, the BD will coordinate the first board meeting.
 
-   50 SHARES per PERSON involved in startup weekend (even if pulled from the board)
+Until PHASE 2-A is complete, the startup will behave as if it already legally exists and runs under the RED CANARY bylaws
+and rules as much as possible.
+
+These first meeting does the following things:
+
+1. Elect a "Chairman". This is the person who runs the board of directors. The BD is the first Chairman. However, if she
+runs the company she needs to resign and run for CEO.
+
+   The Chairman should be one of the shareholders.
+
+   The Chairman will run later meetings.
+
+2. Elect a "Treasurer" to establish and oversee the books.
+
+3. Elect a "Secretary" to handle the corporate legal paperwork.
+
+4. Choose a "CEO". Choose a "President/CEO" to actually run the company on a day-to-day basis. This should NOT be the same
+   person as the Chairman. (It can legally, but that is often an unwise practice.)
+
+   The CEO makes many of the decisions on running the company; especially the day-to-day ones. However, the CEO is required
+   to explain any decision made to the satisfaction of the board. The CEO's powers are limited to what the board grants.
+
+   The CEO may not make corporate decisions; nor may the CEO do anything with stocks. (She can vote as one of the board
+   members, but that is it.)
+
+   If the board fires the CEO, that firing does not affect stock or ownership.
+
+5. Choose a corporate structure and stock allotment for the next Chairman/Treasurer/Secretary to enable by the second meeting.
+
+   Under no circumstance should the CEO do the corporate paperwork. He can perhaps assist if asked.
+
+    Ultimately, decisions are up to vote of the board, but the following are the default expectations:
+
+        Corporate formation should be a full C corporation with 10,000 shares total, incorporated in the state of the
+        Startup Weekend event. Shares are initially assigned using the following formula:
+
+            100 SHARES (or 1% MIN) per PERSON involved in startup weekend
+            Unlike later shares, these shares have dilution limits. If shares are issued or created such that the 100
+            shares is less than 1% of the company, then the holder is issued more shares until he/she holds 1% of the company.
+
+    In this document, everyone receiving this first initial assignment will be refered to as a FOUNDER.
+
+6. Choose any modifications to the default RED CANARY template bylaws wanted by the board members.
+
+Prior to the 'founding' board meeting, all of the board members should see the 'final' documents and have time to discuss them.
+ This might call for more preliminary board meetings run by the new Chairman.
+
+At the founding board meeting:
+
+    1. The new Chairman runs the meeting.
+    2. All the paperwork is signed.
+    3. If additional people are wanting to get involved and 'work for shares', decisions must be made at the board level.
+    4. Perhaps some partying begins.
+
+Of note, when PHASE 2-B happens later, some shareholders might cease to be voting board members. That is expected as more shares are issued.
 
 PHASE 2-B: 60DAYS
 
-For the first 60 days, 'new shares' are released at the following formula:
+After the first 60 days, 'new shares' are released at the following formula:
 
-   1 SHARE for 1 HOUR
-   1 SHARE for $30
+   1 SHARE for 1 HOUR (after startup weekend)
+   1 SHARE for $30 (after startup weekend)
+
+Board meeting time does not count. However, paperwork etc. outside the board meetings can if unpaid.
+
+These and all later shares are 'equally' dilutable. If company create more total shares, the individual value of them dilutes.
 
 All time and money done during 'PHASE 0', prior to startup weekend is also released using this formula. Given
-the restrictions of phase 1, this is a maximum of 55 SHARES. (45 + $300/$30)
+the restrictions of phase 1, this is a maximum of 55 SHARES. (45hrs * 1/hr) + ($300 * 1/$30) = 55
+
+The board meets once again and decides who, if anyone, is elible for further 'labor for shares' in PHASE 3. The board also
+decides when/who to accept money for shares. Largely speaking, further money must come from either:
+
+    1. the FOUNDERS
+    2. persons who meet the legal SEC definition of an Accredited Investor.
+          See https://en.wikipedia.org/wiki/Accredited_investor for a non-legal summary.
 
 PHASE 3: AT 6 MONTHS
 
@@ -105,5 +190,14 @@ This should be, ideally, the end of "labor for shares" period. Using the followi
 
 The final 6 months of 'sweat equity' shares are completed. Done.
 
-At this point, the 'RED CANARY' scheduling comes to an end. Best of luck.
+PHASE 5: AFTER THE FIRST YEAR
 
+It is expected that dividends on profits, if there are any, are made on a yearly basis
+to the shareholders. The actual amount of the profits to issue will be determined each year by the board of directors.
+Two guidelines:
+
+1. Not expected to be 0% of profits. The shareholders are expecting profits to be paid out.
+2. Not expected to be 100% of profits. The shareholders are expecting the company to 'save up' for dips in the
+   markeplace.
+
+Otherwise, at this point, the 'RED CANARY' scheduling comes to an end. Best of luck.
